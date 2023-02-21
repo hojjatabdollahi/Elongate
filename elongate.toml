@@ -1,0 +1,3 @@
+tempo = -15
+input_file = "in.wav"
+output_file = "out.wav"
